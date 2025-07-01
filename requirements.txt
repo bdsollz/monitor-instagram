@@ -1,0 +1,4 @@
+instaloader==4.14.1
+fastapi
+uvicorn
+requests
