@@ -4,7 +4,7 @@ import requests
 
 USERNAME = "weversonmeireles"
 SESSION_FILE = "checkinstabr.session"
-INTERVALO_SEGUNDOS = 20
+INTERVALO_SEGUNDOS = 30
 LIMIAR_ALERTA = 40
 
 TOKEN_BOT = "7845619981:AAFo4LGaqSMcbC2aoAjSubcqvDLRY6cvjNU"
